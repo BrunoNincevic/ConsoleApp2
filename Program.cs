@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World 2222");
-            Console.WriteLine("This is Bruno");
+            Console.WriteLine("This is Bruno");//ovdje dodan komentar
         }
     }
 }
