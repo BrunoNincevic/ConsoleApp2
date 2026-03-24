@@ -10,4 +10,13 @@ namespace ConsoleApp1
             Console.WriteLine("This is Bruno");//ovdje dodan komentar
         }
     }
+    class Nesto
+    {
+        static void function2(string[] args)
+        {
+            Console.WriteLine("Hello World 3333");
+           
+        }
+
+    }
 }
