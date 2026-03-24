@@ -19,4 +19,8 @@ namespace ConsoleApp1
         }
 
     }
+    class Nesto2
+    {
+
+    }
 }
